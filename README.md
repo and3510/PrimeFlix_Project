@@ -32,11 +32,12 @@ PrimeFlix é uma plataforma de filmes desenvolvida em React, projetada para ofer
 - [x] Pagina Home
 - [x] Pagina Filme
 - [x] Pagina de Filmes Favoritos
-- [x] Botao para Salva um Filme Favorito
-- [x] Botao para Excluir um Filme Favorito
-- [x] Botao de trailer para ir no youtuber
+- [x] Botao com a função de Salvar um Filme na lista favoritos
+- [x] Botao com a função de Excluir um Filme Favorito
+- [x] Botao de trailer para ir ver no youtuber
 - [x] Pagina de Erro
 - [x] Pop up de feedback do plataforma para o usuario
+
 
 ## Ferramentas
 
