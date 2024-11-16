@@ -70,7 +70,21 @@ Tive dificuldade de puxar o json da api do __themovieDB__.
 
 ## Como_Usar
 
+- Faça o git clone do repositorio
+    ```
+    git clone https://github.com/and3510/PrimeFlix_Project.git
+    ```
+- Instale o npm
+    ```
+    cd PrimeFlix_Project
+    npm install
+    ```
+- Inicie o servidor
+    ```
+    npm start
+    ```
 
+Depois click no link local `http://localhost:3000`
 
 ## Conclusão
 
