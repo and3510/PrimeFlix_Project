@@ -65,6 +65,10 @@ Tive dificuldade de puxar o json da api do __themovieDB__.
 <p> Pagina Filme Favoritos do Site</p>
 
 
+<img src="./images/image copy 3.png" alt="Descrição da Imagem" width="700" height="300">
+<p> Pagina com o Pop up de Mensagem de Sucesso </p>
+
+
 </div>
 
 
